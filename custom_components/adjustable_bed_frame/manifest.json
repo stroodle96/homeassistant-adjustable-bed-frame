@@ -1,9 +1,9 @@
 {
     "domain": "adjustable_bed_frame",
     "name": "Adjustable Bed Frame",
-    "documentation": "https://www.example.com",
+    "documentation": "https://github.com/stroodle96/homeassistant-adjustable-bed-frame",
     "dependencies": [],
-    "codeowners": [],
+    "codeowners": ["@stroodle96"],
     "requirements": ["bleak==0.14.1", "crccheck==1.1"],
     "iot_class": "assumed_state",
     "version": "0.0.1"
